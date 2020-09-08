@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<conf>
+	<item name="user">guest</item>
+	<item name="pass">qwerty123</item>
+	<item name="host">localhost</item>
+</conf>	

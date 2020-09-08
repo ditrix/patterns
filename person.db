@@ -1,0 +1,7 @@
+CREATE TABLE person (
+	id  INTEGER PROMARY KEY AUTOINCREMENT,
+	name  TEXT,
+	login TEXT,
+	password TEXT,
+	email TEXT
+)
